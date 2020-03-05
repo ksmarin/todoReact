@@ -11,7 +11,7 @@ const List = (props) => {
         <>
             <li> {props.tareas.nombre}
                 <button className="remove-item btn btn-default btn-xs pull-right">
-                    Xx<span className="glyphicon glyphicon-remove"></span>
+                    Xxx<span className="glyphicon glyphicon-remove"></span>
                 </button>
             </li>
         </>
